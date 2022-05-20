@@ -1,0 +1,48 @@
+2022-05-19 01:05:833 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:00 INFO  HomePage :41 - Enter jobTitle<jobTitle> to jobTitle field [[ChromeDriver: chrome on WINDOWS (b6137a410b9caff1a453c4285c4ef8c3)] -> xpath: //input[@id='keywords']]<br>
+2022-05-19 01:05:82 INFO  HomePage :47 - Enter Location<location> to Location field [[ChromeDriver: chrome on WINDOWS (b6137a410b9caff1a453c4285c4ef8c3)] -> xpath: //input[@id='location']]<br>
+2022-05-19 01:05:858 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:558 INFO  HomePage :41 - Enter jobTitleTester to jobTitle field [[ChromeDriver: chrome on WINDOWS (d9abbdfdc7dcbbc0a66bb194cd0966e4)] -> xpath: //input[@id='keywords']]<br>
+2022-05-19 01:05:625 INFO  HomePage :47 - Enter LocationHarrow to Location field [[ChromeDriver: chrome on WINDOWS (d9abbdfdc7dcbbc0a66bb194cd0966e4)] -> xpath: //input[@id='location']]<br>
+2022-05-19 01:05:721 INFO  HomePage :53 - Selecting distanceDropDown up to 5 miles from dropdown [[ChromeDriver: chrome on WINDOWS (d9abbdfdc7dcbbc0a66bb194cd0966e4)] -> xpath: //select[@id='distance']]<br>
+2022-05-19 01:05:320 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:532 INFO  HomePage :63 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (11386e154e0e27a521c137d06660131e)] -> xpath: //*[contains(text(),'Accept')]]
+2022-05-19 01:05:872 INFO  HomePage :41 - Enter jobTitleTester to jobTitle field [[ChromeDriver: chrome on WINDOWS (11386e154e0e27a521c137d06660131e)] -> xpath: //input[@id='keywords']]<br>
+2022-05-19 01:05:149 INFO  HomePage :47 - Enter LocationHarrow to Location field [[ChromeDriver: chrome on WINDOWS (11386e154e0e27a521c137d06660131e)] -> xpath: //input[@id='location']]<br>
+2022-05-19 01:05:288 INFO  HomePage :53 - Selecting distanceDropDown up to 5 miles from dropdown [[ChromeDriver: chrome on WINDOWS (11386e154e0e27a521c137d06660131e)] -> xpath: //select[@id='distance']]<br>
+2022-05-19 01:05:438 INFO  HomePage :58 - Clicking on moreSearchOptionsLink[[ChromeDriver: chrome on WINDOWS (11386e154e0e27a521c137d06660131e)] -> id: toggle-hp-search]<br>
+2022-05-19 01:05:649 INFO  HomePage :69 - Enter salaryMin3000 to salaryMin  field [[ChromeDriver: chrome on WINDOWS (11386e154e0e27a521c137d06660131e)] -> xpath: //input[@id='salarymin']]<br>
+2022-05-19 01:05:745 INFO  HomePage :75 - Enter salaryMax5000 to salaryMax field [[ChromeDriver: chrome on WINDOWS (11386e154e0e27a521c137d06660131e)] -> xpath: //input[@id='salarymax']]<br>
+2022-05-19 01:05:831 INFO  HomePage :81 - Selecting salaryTypeDropDown annum from dropdown [[ChromeDriver: chrome on WINDOWS (11386e154e0e27a521c137d06660131e)] -> xpath: //select[@id='salarytype']]<br>
+2022-05-19 12:05:228 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 12:05:568 INFO  HomePage :63 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (28fc622d8a57c9e2fa673d97c3d4aab5)] -> xpath: //*[contains(text(),'Accept')]]
+2022-05-19 12:05:728 INFO  HomePage :41 - Enter jobTitleTester to jobTitle field [[ChromeDriver: chrome on WINDOWS (28fc622d8a57c9e2fa673d97c3d4aab5)] -> xpath: //input[@id='keywords']]<br>
+2022-05-19 12:05:793 INFO  HomePage :47 - Enter LocationHarrow to Location field [[ChromeDriver: chrome on WINDOWS (28fc622d8a57c9e2fa673d97c3d4aab5)] -> xpath: //input[@id='location']]<br>
+2022-05-19 12:05:926 INFO  HomePage :53 - Selecting distanceDropDown up to 5 miles from dropdown [[ChromeDriver: chrome on WINDOWS (28fc622d8a57c9e2fa673d97c3d4aab5)] -> xpath: //select[@id='distance']]<br>
+2022-05-19 12:05:213 INFO  HomePage :58 - Clicking on moreSearchOptionsLink[[ChromeDriver: chrome on WINDOWS (28fc622d8a57c9e2fa673d97c3d4aab5)] -> id: toggle-hp-search]<br>
+2022-05-19 12:05:318 INFO  HomePage :69 - Enter salaryMin3000 to salaryMin  field [[ChromeDriver: chrome on WINDOWS (28fc622d8a57c9e2fa673d97c3d4aab5)] -> xpath: //input[@id='salarymin']]<br>
+2022-05-19 12:05:414 INFO  HomePage :75 - Enter salaryMax5000 to salaryMax field [[ChromeDriver: chrome on WINDOWS (28fc622d8a57c9e2fa673d97c3d4aab5)] -> xpath: //input[@id='salarymax']]<br>
+2022-05-19 12:05:477 INFO  HomePage :81 - Selecting salaryTypeDropDown annum from dropdown [[ChromeDriver: chrome on WINDOWS (28fc622d8a57c9e2fa673d97c3d4aab5)] -> xpath: //select[@id='salarytype']]<br>
+2022-05-19 12:05:465 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 12:05:634 INFO  HomePage :63 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (ac89e442fa32648eadbae7db1b2396d0)] -> xpath: //*[contains(text(),'Accept')]]
+2022-05-19 12:05:799 INFO  HomePage :41 - Enter jobTitleTester to jobTitle field [[ChromeDriver: chrome on WINDOWS (ac89e442fa32648eadbae7db1b2396d0)] -> xpath: //input[@id='keywords']]<br>
+2022-05-19 12:05:857 INFO  HomePage :47 - Enter LocationHarrow to Location field [[ChromeDriver: chrome on WINDOWS (ac89e442fa32648eadbae7db1b2396d0)] -> xpath: //input[@id='location']]<br>
+2022-05-19 12:05:30 INFO  HomePage :53 - Selecting distanceDropDown up to 5 miles from dropdown [[ChromeDriver: chrome on WINDOWS (ac89e442fa32648eadbae7db1b2396d0)] -> xpath: //select[@id='distance']]<br>
+2022-05-19 12:05:159 INFO  HomePage :58 - Clicking on moreSearchOptionsLink[[ChromeDriver: chrome on WINDOWS (ac89e442fa32648eadbae7db1b2396d0)] -> id: toggle-hp-search]<br>
+2022-05-19 12:05:265 INFO  HomePage :69 - Enter salaryMin3000 to salaryMin  field [[ChromeDriver: chrome on WINDOWS (ac89e442fa32648eadbae7db1b2396d0)] -> xpath: //input[@id='salarymin']]<br>
+2022-05-19 12:05:336 INFO  HomePage :75 - Enter salaryMax5000 to salaryMax field [[ChromeDriver: chrome on WINDOWS (ac89e442fa32648eadbae7db1b2396d0)] -> xpath: //input[@id='salarymax']]<br>
+2022-05-19 12:05:393 INFO  HomePage :81 - Selecting salaryTypeDropDown annum from dropdown [[ChromeDriver: chrome on WINDOWS (ac89e442fa32648eadbae7db1b2396d0)] -> xpath: //select[@id='salarytype']]<br>
+2022-05-19 12:05:681 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 12:05:806 INFO  HomePage :63 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (8d1ba0c064cd5ae00b4ac259fb6dfdeb)] -> xpath: //*[contains(text(),'Accept')]]
+2022-05-19 12:05:964 INFO  HomePage :41 - Enter jobTitlePlumber to jobTitle field [[ChromeDriver: chrome on WINDOWS (8d1ba0c064cd5ae00b4ac259fb6dfdeb)] -> xpath: //input[@id='keywords']]<br>
+2022-05-19 12:05:23 INFO  HomePage :47 - Enter LocationLondon to Location field [[ChromeDriver: chrome on WINDOWS (8d1ba0c064cd5ae00b4ac259fb6dfdeb)] -> xpath: //input[@id='location']]<br>
+2022-05-19 12:05:133 INFO  HomePage :53 - Selecting distanceDropDown up to 15 miles from dropdown [[ChromeDriver: chrome on WINDOWS (8d1ba0c064cd5ae00b4ac259fb6dfdeb)] -> xpath: //select[@id='distance']]<br>
+2022-05-19 12:05:583 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 12:05:926 INFO  HomePage :63 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (37ff843267df50a36583d20f267c8d67)] -> xpath: //*[contains(text(),'Accept')]]
+2022-05-19 12:05:81 INFO  HomePage :41 - Enter jobTitlePlumber to jobTitle field [[ChromeDriver: chrome on WINDOWS (37ff843267df50a36583d20f267c8d67)] -> xpath: //input[@id='keywords']]<br>
+2022-05-19 12:05:135 INFO  HomePage :47 - Enter LocationLondon to Location field [[ChromeDriver: chrome on WINDOWS (37ff843267df50a36583d20f267c8d67)] -> xpath: //input[@id='location']]<br>
+2022-05-19 12:05:238 INFO  HomePage :53 - Selecting distanceDropDown up to 15 miles from dropdown [[ChromeDriver: chrome on WINDOWS (37ff843267df50a36583d20f267c8d67)] -> xpath: //select[@id='distance']]<br>
+2022-05-19 12:05:345 INFO  HomePage :58 - Clicking on moreSearchOptionsLink[[ChromeDriver: chrome on WINDOWS (37ff843267df50a36583d20f267c8d67)] -> id: toggle-hp-search]<br>
+2022-05-19 12:05:468 INFO  HomePage :69 - Enter salaryMin4000 to salaryMin  field [[ChromeDriver: chrome on WINDOWS (37ff843267df50a36583d20f267c8d67)] -> xpath: //input[@id='salarymin']]<br>
+2022-05-19 12:05:538 INFO  HomePage :75 - Enter salaryMax5000 to salaryMax field [[ChromeDriver: chrome on WINDOWS (37ff843267df50a36583d20f267c8d67)] -> xpath: //input[@id='salarymax']]<br>
+2022-05-19 12:05:616 INFO  HomePage :81 - Selecting salaryTypeDropDown month from dropdown [[ChromeDriver: chrome on WINDOWS (37ff843267df50a36583d20f267c8d67)] -> xpath: //select[@id='salarytype']]<br>
